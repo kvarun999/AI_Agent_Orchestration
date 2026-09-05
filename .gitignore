@@ -1,0 +1,17 @@
+# Environment files
+.env
+!.env.example
+
+# Python cache & build outputs
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Log files
+logs/*.log
+
+# IDE & OS files
+.DS_Store
+.vscode/
+.idea/
